@@ -6,9 +6,9 @@ In this scenario, I'm a security analyst who must monitor traffic on your employ
 I will analyze a network packet capture file that contains traffic data related to a user connecting to an internet site. The ability to filter network traffic using packet sniffers to gather relevant information is an essential skill as a security analyst.
 
 Here’s how you'll do this task: 
-First, you'll explore custom rules in Suricata. 
-Second, you'll run Suricata with a custom rule in order to trigger it, and examine the output logs in the fast.log file. 
-Finally, you’ll examine the additional output that Suricata generates in the standard eve.json log file.
+* First, you'll explore custom rules in Suricata. 
+* Second, you'll run Suricata with a custom rule in order to trigger it, and examine the output logs in the fast.log file. 
+* Finally, you’ll examine the additional output that Suricata generates in the standard eve.json log file.
 <br />
 
 
