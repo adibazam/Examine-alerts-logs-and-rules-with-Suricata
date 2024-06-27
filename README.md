@@ -131,7 +131,6 @@ analyst@ee69e3317af7:~$ jq . /var/log/suricata/eve.json | less
 ```
 
 <p align="center"> 
-<img src="https://i.gyazo.com/908d08f7f3f86c1c4c3a22b07d5984de.png" height="80%" width="80%" alt="tcpdump"/>
 
 3. Use the jq command to extract specific event data from the eve.json file:
 ```
